@@ -8,6 +8,6 @@ Adding WOFF2 would not make a difference in terms of browser support, because al
 
 The most notable browser that we don't support is Opera Mini, with 5% global usage share. Opera Mini does not support any webfont format, so there's nothing we can do about that.
 
-Source: Caniuse.com
+Source: Caniuse.com 
 http://caniuse.com/#feat=woff
 http://caniuse.com/#feat=eot
