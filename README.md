@@ -1,6 +1,6 @@
 # FAQ
 
-**Why do your webfont packages not include SVG and WOFF2 formats?**
+**Why do your webfont packages not include SVG, TTF and WOFF2 formats?**
 
 We've chosen to include the two most widely supported webfont formats in our webfont packages: WOFF and EOT. These formats cover close to 97% of web users that have webfont support in their browsers.
 
