@@ -15,6 +15,4 @@ http://caniuse.com/#feat=eot
 
 **Can I use your webfonts on Squarespace?**
 
-Yes you can, but it requires some CSS coding skills. Squarespace supports uploading custom font files and editing the website template CSS. Petri Pottonen has written this [handy guide](http://voxpopagency.com/blog/how-do-i-add-a-webfont-to-squarespace) on how to do that.
-
-The CSS code that you need to add depends on the template that you are using.
+Yes you can, but it requires some CSS coding skills. Squarespace supports uploading custom font files and editing the website template CSS. The CSS code that you need to add depends on the template that you are using.
